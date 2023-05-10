@@ -1,6 +1,4 @@
-Hi 👋 My name is Marieke
-
-=============================
+<h1 align="center">Hi 👋, I'm Marieke</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on a weather app<br>
