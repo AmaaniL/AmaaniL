@@ -1,3 +1,7 @@
+Hi 👋 My name is Marieke
+
+=============================
+
 # 💫 About Me:
 🔭 I’m currently working on a weather app<br>
 
