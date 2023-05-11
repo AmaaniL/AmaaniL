@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marieke</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a weather app<br>
+🔭 [Portfolio](https://amaanil.github.io/Portfolio/) <br>
 
 💬 Ask me about open source!<br>
 
